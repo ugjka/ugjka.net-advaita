@@ -14,6 +14,7 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Montserrat" !default;
 
 .navbar {
   font-family: $headings-font-family;
+  background-color: black !important;
 }
 
 .bg-dark {
@@ -245,7 +246,12 @@ legend {
   h1, h2, h3, h4, h5, h6 {
     color: inherit;
   }
-
+  body {
+    background: url(../../background.png) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
   a,
   .alert-link {
     color: $white;
@@ -325,4 +331,11 @@ legend {
   h1, h2, h3, h4, h5, h6 {
     color: inherit;
   }
+}
+
+body {
+  background: url(../background.png) !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
 }
