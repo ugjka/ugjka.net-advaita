@@ -21,7 +21,7 @@ Robert Adams was an American Advaita teacher. In later life Adams held satsang w
 Francis is a spiritual teacher in the tradition of Advaita Vedanta (non-duality). A long time friend and disciple of Jean Klein whom he met in 1975, he was a friend of Robert Linssen, Wolter Keers, Yvan Amar, William Samuel and Robert Adams. He was also influenced by J. Krishnamurti, Krishna Menon and Wei Wu Wei whom he knew personally.
 
 * Official website: [francislucille.com](https://francislucille.com/)
-* Official YouTube channel: [www.youtube.com/channel/UCAYslZlNuBDD7FMvpjWLtoQ](https://www.youtube.com/channel/UCAYslZlNuBDD7FMvpjWLtoQ)
+* Official YouTube channel: [www.youtube.com](https://www.youtube.com/channel/UCAYslZlNuBDD7FMvpjWLtoQ)
 * Old blog Q&A: [ugjka.net/francis](https://ugjka.net/francis)
 
 <br>
