@@ -8,9 +8,9 @@ title: My favourite Advaita masters
 
 ![Robert Adams](./robert.jpg)
 
-Robert Adams was an American Advaita teacher. In later life Adams held satsang with a small group of devotees in California, US. He mainly advocated the path of jñāna yoga with an emphasis on the practice of self-enquiry.
+Robert Adams was an American Advaita teacher. In later life, Adams held satsang with a small group of devotees in California, US. He mainly advocated the path of jñāna yoga with an emphasis on the practice of self-inquiry.
 
-* Satsang recordings and PDFs available here: [robert-adams.info](https://robert-adams.info/)
+* Satsang recordings and PDFs are available here: [robert-adams.de](https://robert-adams.de/)
 
 <br>
 
@@ -18,7 +18,7 @@ Robert Adams was an American Advaita teacher. In later life Adams held satsang w
 
 ![Francis Lucille](./francis.jpg)
 
-Francis is a spiritual teacher in the tradition of Advaita Vedanta (non-duality). A long time friend and disciple of Jean Klein whom he met in 1975, he was a friend of Robert Linssen, Wolter Keers, Yvan Amar, William Samuel and Robert Adams. He was also influenced by J. Krishnamurti, Krishna Menon and Wei Wu Wei whom he knew personally.
+Francis is a spiritual teacher in the tradition of Advaita Vedanta (non-duality). A long-time friend and disciple of Jean Klein whom he met in 1975, he was a friend of Robert Linssen, Wolter Keers, Yvan Amar, William Samuel and Robert Adams. He was also influenced by J. Krishnamurti, Krishna Menon and Wei Wu Wei whom he knew personally.
 
 * Official website: [francislucille.com](https://francislucille.com/)
 * Official YouTube channel: [www.youtube.com](https://www.youtube.com/channel/UCAYslZlNuBDD7FMvpjWLtoQ)
@@ -30,9 +30,20 @@ Francis is a spiritual teacher in the tradition of Advaita Vedanta (non-duality)
 
 ![Rupert Spira](./rupert.jpg)
 
-Rupert Spira is an English teacher of the "direct path", a method of spiritual self-enquiry through talks and writing, and a notable English studio potter with work in public and private collections.
+Rupert Spira is an English teacher of the "direct path", a method of spiritual self-inquiry through talks and writing, and a notable English studio potter with work in public and private collections.
 
 * Official website: [rupertspira.com](https://rupertspira.com/)
 * Official YouTube channel: [www.youtube.com/user/rupertspira](https://www.youtube.com/user/rupertspira)
+
+<br>
+
+### Amoda Maa
+
+![Amoda Maa](./amodamaa.jpg)
+
+Amoda Maa is a contemporary spiritual teacher and author, offering a profound invitation to all who wish to embody awakened consciousness in the midst of everyday life.
+
+* Official website: [www.amodamaa.com](https://www.amodamaa.com/)
+* Official YouTube channel: [www.youtube.com/c/amodamaajeevan](https://www.youtube.com/c/amodamaajeevan)
 
 <br>
